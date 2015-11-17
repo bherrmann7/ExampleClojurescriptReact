@@ -81,7 +81,7 @@
    [:br]
    [:br]
    [:br]
-   [:a {:href "https://github.com/bherrmann7/ExampleClojurescriptReact/blob/master/src-cljs/wap/demo.cljs"} "Clojurescript gist"]
+   [:a {:href "https://github.com/bherrmann7/ExampleClojurescriptReact/blob/master/src-cljs/wap/demo.cljs"} "Clojurescript code"]
    ]
   )
 
